@@ -9,7 +9,7 @@ This Repo containes the topic details for the GAWDS Motion Graphics Workshop and
 - [ ] Final Project
 - [ ] Going further
 
-
+# FOR A PR
 ## Motion Graphics
 Motion graphics are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects.
 
