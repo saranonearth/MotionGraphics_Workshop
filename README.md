@@ -32,7 +32,8 @@ Adobe After Effects is a digital visual effects, motion graphics, and compositin
 ## Common Terms
 
 ###### Composition
->A composition is a container that stores layers of video, audio, text, etc. Compositions are essentially independent timelines, so you can think of each composition as being a separate movie project.
+>A composition is a container that stores layers of video, audio, text, etc. Compositions are essentially independent timelines, so you can think of each composition as being a separate movie project. In other words,it is like a sandwich having various layers.
+
 
 ###### Frames
 >It indicates the current frame that is being displayed, moving as the animation or composition is played. The default display of the Timeline panel is the layer bar mode.
